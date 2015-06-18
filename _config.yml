@@ -1,11 +1,12 @@
 # Site settings
 title: Conscience Alchemy
 description: "A blog about Conscienceness and Alchemy"
-url: "jeffwarddevelopment.com"
+url: '/conscience-alchemy'
 author:
   name: "Jeff Ward"
   email: "conscience-alchemy@gmail.com"
-  url: "jeffwarddevelopment.com"
+  url: '/conscience-alchemy'
+  baseurl: '/conscience-alchemy' 
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
