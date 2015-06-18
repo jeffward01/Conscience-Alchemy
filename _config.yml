@@ -6,10 +6,10 @@ author:
   name: "Jeff Ward"
   email: "conscience-alchemy@gmail.com"
   url: '/Conscience-Alchemy'
-  baseurl: /Conscience-Alchemy/
+  baseurl: /Conscience-Alchemy
 
 # Build settings
-baseurl: /Conscience-Alchemy/
+baseurl: /Conscience-Alchemy
 markdown: kramdown
 source: .
 destination: ./_site
