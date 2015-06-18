@@ -1,11 +1,11 @@
 # Site settings
 title: Conscience Alchemy
 description: "A blog about Conscienceness and Alchemy"
-url: 
+url: http://jeffward01.github.io/Conscience-Alchemy/
 author:
   name: "Jeff Ward"
   email: "conscience-alchemy@gmail.com"
-  url: 
+  url: http://jeffward01.github.io/Conscience-Alchemy/
   baseurl: /Conscience-Alchemy
 
 # Build settings
